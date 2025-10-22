@@ -23,7 +23,7 @@ This project was created to practice and demonstrate key concepts of **C#**, **E
 ---
 
 ## 🖼️ Preview
-![MoviesManager Screenshot](./screenshot.png)
+![MoviesManager Screenshot](./Screenshot.png)
 
 ---
 
